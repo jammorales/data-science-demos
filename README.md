@@ -7,9 +7,9 @@ Collection of data science problems with demonstrated methodical solutions, expl
 
 ## Contents
 
-001-detect-credit-card-fraud
-002-predict-customer-churn
-003-detect-sarcasm-in-the-news
+001-detect-credit-card-fraud  
+002-predict-customer-churn  
+003-detect-sarcasm-in-the-news  
   
 ...more coming soon.
 
