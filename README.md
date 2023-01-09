@@ -7,9 +7,9 @@ Collection of data science problems with demonstrated methodical solutions, expl
 
 ## Contents
 
-001-detect-credit-card-fraud  
-002-predict-customer-churn  
-003-detect-sarcasm-in-the-news  
+[001-detect-credit-card-fraud](https://github.com/jammorales/data-science-demos/blob/main/001-detect-credit-card-fraud.ipynb)  
+[002-predict-customer-churn](https://github.com/jammorales/data-science-demos/blob/main/002-predict-customer-churn.ipynb)  
+[003-detect-sarcasm-in-the-news](https://github.com/jammorales/data-science-demos/blob/main/003-detect-sarcasm-in-the-news.ipynb)  
   
 ...more coming soon.
 
